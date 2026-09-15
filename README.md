@@ -1,5 +1,4 @@
-# Scratch-Games
-# Scratch Games – Flappy Bird & Skinned Flappy Bird
+# Scratch Games Flappy Bird & Skinned Flappy Bird
 
 This repository contains two games developed using **Scratch** as part of my Programming Fundamentals coursework during my **1st semester of BS Computer Science**.
 
